@@ -1,0 +1,30 @@
+# Student Management System (C++)
+
+## Description
+This project is a simple Student Management System developed in C++.
+It allows the user to manage student records using arrays and structures.
+
+## Features
+- Add student
+- Display all students
+- Search student by ID
+- Update student information
+- Delete student
+- Find highest GPA student
+- Calculate average GPA
+
+## Concepts Used
+- Structures (struct)
+- Arrays
+- Functions
+- Loops
+- Conditional statements (if, switch)
+
+## How to Run
+1. Compile the program using any C++ compiler:
+   g++ main.cpp -o student
+2. Run the program:
+   ./student
+
+## Author
+Student Project - C++ Course
